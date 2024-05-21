@@ -3,7 +3,7 @@ package beanUtil
 import (
 	"encoding/json"
 	"fmt"
-	"hutool/api"
+	"github.com/ArtLjn/hutool/api"
 	"reflect"
 )
 
